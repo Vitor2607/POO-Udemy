@@ -1,15 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 package com.mycompany.banco;
 
 import entities.Conta;
 import java.util.Scanner;
 
-/**
- *
- * @author vitor
- */
 public class Programa {
 
     public static void main(String[] args) {
